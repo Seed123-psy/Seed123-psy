@@ -123,6 +123,8 @@ const seed123psy = {
 
 ## 📝 Latest Blog Posts
 
+<div align="center">
+
 <table>
 <tr>
 <td>
@@ -142,6 +144,8 @@ const seed123psy = {
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
