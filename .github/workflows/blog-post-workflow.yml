@@ -1,0 +1,50 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行（北京时间 08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # RSS Feed URL - 替换为你的博客 RSS 地址
+          # 公众号: 需要在后台开启 RSS 功能，获取 RSS URL
+          # 知乎: https://www.zhihu.com/people/YOUR_USERNAME/posts (需要第三方 RSS 服务转换)
+          # 掘金: https://juejin.cn/user/YOUR_USER_ID/posts
+          # CSDN: https://blog.csdn.net/YOUR_USERNAME/rss
+          # 博客园: https://www.cnblogs.com/YOUR_USERNAME/rss
+          
+          feed_list: "https://YOUR_BLOG_RSS_URL_HERE"
+          
+          # 可选配置
+          max_post_count: 5 # 显示最新 5 篇文章
+          readme_path: ./README.md
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url) - $newline"
+          date_format: "yyyy-mm-dd"
+          
+          # 提交配置
+          commit_message: "📝 Updated with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
+
+# 🔧 激活步骤：
+# 1. 获取你的博客 RSS URL（公众号/知乎/掘金等平台）
+# 2. 替换上方 feed_list 中的 "https://YOUR_BLOG_RSS_URL_HERE"
+# 3. 提交并推送此文件到 GitHub
+# 4. 工作流将自动每天更新，或在 Actions 页面手动触发
+#
+# 💡 提示：
+# - 如果你有多个博客源，可以用逗号分隔多个 RSS URL
+# - 例如: feed_list: "https://blog1.com/rss, https://blog2.com/rss"
