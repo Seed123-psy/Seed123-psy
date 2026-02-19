@@ -115,14 +115,7 @@ const seed123psy = {
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seed123-psy&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seed123-psy&theme=radical" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Seed123-psy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Seed123-psy&theme=react-dark&hide_border=true&area=true&custom_title=📈%20Contribution%20Activity%20Graph" />
 
 </div>
 
