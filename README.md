@@ -24,7 +24,8 @@ const seed123psy = {
     education: "Software Engineering (NIIT)",
     currentFocus: ["AI/LLM", "Full Stack", "Cloud Native"],
     learning: ["RAG Systems", "LangChain4j", "Spring AI"],
-    funFact: "Code is poetry written in logic ✨"
+    funFact: "Code is poetry written in logic ✨",
+    updated: "2025-02-19"
 };
 ```
 
