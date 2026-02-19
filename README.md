@@ -123,18 +123,25 @@ const seed123psy = {
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Claude Agent Skills 实战指南：从自定义开发到跨平台部署完全攻略](https://blog.csdn.net/2501_90685365/article/details/158206261) - 
-- [Claude Agent Skills 进阶指南：Skills vs MCP vs Subagents 全面对比与预构建技能实战](https://blog.csdn.net/2501_90685365/article/details/158044382) - 
-- [深度解析 Claude Agent Skills：让 AI 智能体能力提升 10 倍的秘密武器](https://blog.csdn.net/2501_90685365/article/details/158044147) - 
-- [【死磕西瓜书】Chap 6 支持向量机：数学最美的样子](https://blog.csdn.net/2501_90685365/article/details/157440926) - 
-- [【死磕西瓜书+南瓜书】Chap 5 神经网络：手推 BP 算法与深度学习的本质](https://blog.csdn.net/2501_90685365/article/details/157332136) - 
+<table>
+<tr>
+<td>
+
+<!-- BLOG-POST-LIST:START -->
+- [Claude Agent Skills 实战指南：从自定义开发到跨平台部署完全攻略](https://blog.csdn.net/2501_90685365/article/details/158206261) -
+- [Claude Agent Skills 进阶指南：Skills vs MCP vs Subagents 全面对比与预构建技能实战](https://blog.csdn.net/2501_90685365/article/details/158044382) -
+- [深度解析 Claude Agent Skills：让 AI 智能体能力提升 10 倍的秘密武器](https://blog.csdn.net/2501_90685365/article/details/158044147) -
+- [【死磕西瓜书】Chap 6 支持向量机：数学最美的样子](https://blog.csdn.net/2501_90685365/article/details/157440926) -
+- [【死磕西瓜书+南瓜书】Chap 5 神经网络：手推 BP 算法与深度学习的本质](https://blog.csdn.net/2501_90685365/article/details/157332136) -
 <!-- BLOG-POST-LIST:END -->
 
-<div align="right">
+<br/>
 
-[![CSDN Blog](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2501_90685365)
+[![CSDN](https://img.shields.io/badge/📚_READ_MORE_ARTICLES-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2501_90685365)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
