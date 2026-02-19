@@ -119,8 +119,8 @@ const seed123psy = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" />
 </a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seed123-psy&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10&hide=html,css" />
 </a>
 
 </div>
