@@ -164,7 +164,23 @@ const seed123psy = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seed123-psy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:202424120333@hainnu.edu.cn)
 
-<br/>
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Contributing
+
+想要贡献代码或报告问题？查看我们的 [贡献指南](CONTRIBUTING.md)！
+
+欢迎所有形式的贡献：bug 报告、功能建议、文档改进等。
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
