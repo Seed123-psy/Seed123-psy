@@ -65,15 +65,17 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seed123-psy&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seed123-psy&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 🏆 GitHub Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seed123-psy&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seed123-psy&theme=radical)
 
 </div>
 
