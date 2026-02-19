@@ -115,8 +115,8 @@ const seed123psy = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10&card_width=400&hide=html,css,batchfile,roff" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seed123-psy&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Seed123-psy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 </div>
 
