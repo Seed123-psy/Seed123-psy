@@ -115,13 +115,8 @@ const seed123psy = {
 
 <div align="center">
 
-### 💻 Language Distribution
-
-![TypeScript](https://img.shields.io/badge/TypeScript-92.5%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-1.2%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-1.2%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-1.2%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&card_width=320" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Seed123-psy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide=contribs" alt="GitHub Stats" />
 
 </div>
 
