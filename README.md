@@ -117,7 +117,7 @@ const seed123psy = {
 <div align="center">
 
 <img width="49%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seed123-psy&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seed123-psy&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" />
 
 </div>
 
