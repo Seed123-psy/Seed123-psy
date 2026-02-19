@@ -117,7 +117,7 @@ const seed123psy = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Seed123-psy&theme=radical&no-frame=true&no-bg=true&row=2&column=3" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Seed123-psy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
 </div>
 
