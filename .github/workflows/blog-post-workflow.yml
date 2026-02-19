@@ -18,14 +18,11 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # RSS Feed URL - 替换为你的博客 RSS 地址
-          # 公众号: 需要在后台开启 RSS 功能，获取 RSS URL
-          # 知乎: https://www.zhihu.com/people/YOUR_USERNAME/posts (需要第三方 RSS 服务转换)
-          # 掘金: https://juejin.cn/user/YOUR_USER_ID/posts
-          # CSDN: https://blog.csdn.net/YOUR_USERNAME/rss
-          # 博客园: https://www.cnblogs.com/YOUR_USERNAME/rss
+          # RSS Feed URL - 已配置 CSDN 博客
+          # 如需添加更多博客源，用逗号分隔多个 URL
+          # 例如: feed_list: "https://blog1.com/rss, https://blog2.com/rss"
           
-          feed_list: "https://YOUR_BLOG_RSS_URL_HERE"
+          feed_list: "https://blog.csdn.net/2501_90685365/rss"
           
           # 可选配置
           max_post_count: 5 # 显示最新 5 篇文章
