@@ -103,14 +103,20 @@ const seed123psy = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Seed123-psy&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Seed123-psy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seed123-psy&theme=radical" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seed123-psy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seed123-psy&theme=radical&utcOffset=8" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seed123-psy&theme=radical" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seed123-psy&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seed123-psy&theme=radical" />
 
 </div>
 
