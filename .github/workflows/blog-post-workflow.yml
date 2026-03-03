@@ -1,0 +1,40 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行（北京时间 08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write  # 允许工作流写入仓库内容
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # RSS Feed URL - 已配置 CSDN 博客
+          # 如需添加更多博客源，用逗号分隔多个 URL
+          # 例如: feed_list: "https://blog1.com/rss, https://blog2.com/rss"
+          
+          feed_list: "https://rss.csdn.net/2501_90685365/rss/map"
+          
+          # 可选配置
+          max_post_count: 5 # 显示最新 5 篇文章
+          readme_path: ./README.md
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url) - $newline"
+          date_format: "yyyy-mm-dd"
+          
+          # 提交配置
+          commit_message: "📝 Updated with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
