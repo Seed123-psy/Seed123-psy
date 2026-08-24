@@ -82,6 +82,11 @@
 </div>
 
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seed123-psy/Seed123-psy/main/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seed123-psy/Seed123-psy/main/dist/github-contribution-grid-snake.svg">
